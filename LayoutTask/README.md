@@ -7,29 +7,31 @@
 ![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/1.png)
 
 ![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/2.png)
-### LinearLayoutActivity
-![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/3.png)
 
+![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/3.png)
+### LinearLayoutActivity
+
+![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/4.png)
 
 ## 2.相对布局
 ### activity\_relative\_layout.xml
-![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/4.png)
-
 ![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/5.png)
 
+![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/6.png)
 
 
 ### RelativeLayoutActivity
-![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/6.png)
+![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/7.png)
 
 ## 表格布局
 ### activity\_table\_layout.xml
-![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/7.png)
+
 ![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/8.png)
 
+![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/9.png)
 
 ### TableLayoutActivity
-![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/9.png)
+
 
 ![](https://github.com/warmandfull/androidTask/blob/master/LayoutTask/screenshots/10.png)
 
